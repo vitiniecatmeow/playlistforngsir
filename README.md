@@ -1,10 +1,4 @@
-# A Playlist for Ng sir
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
+#A Letter to Ng Sir
 <body>
     <h3>「因吾，曾被聽見」| "Because You Listened"</h3>
     <p>致我生命中的救贖 — 吳sir,</p>
